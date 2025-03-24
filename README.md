@@ -1,5 +1,6 @@
+Code Showcase: https://youtu.be/ibEt8NW1JsE
+
 # Scale
-# prompt: write me a readme file for the code in main.py
 
 # Buildozer Android App Setup
 
